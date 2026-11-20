@@ -3,7 +3,7 @@ MySQL · Power BI · SQL · DAX · Data Modeling · Data Validation
 
 An end-to-end analytics portfolio project for a fictional gym business operating in Aley Heights, Beirut Central, and Jounieh Coast. It connects a controlled MySQL data model to five Power BI report pages covering memberships, revenue, collections, attendance, and financial controls.
 
-Author: Dani Andari
+Author: Daniel Andari
 Reporting period: September 1, 2023–August 31, 2026
 Currency: USD
 Data: Deterministic synthetic data; no real customer records or actual gym performance are represented.
@@ -71,3 +71,22 @@ The source archive contains 36 SQL scripts and 35 Markdown documents, including 
 Status: SQL implementation and five-page Power BI report are built; portfolio packaging is in progress. GitHub publication and a clean-environment reproduction check are pending. Before publishing setup instructions, the build/validation order must be reconciled: the structural master invokes a grants validator whose audit count already expects the later analytical layer.
 
 No business-performance improvement, production deployment, or independent validation of all 51 catalogue KPIs is claimed.
+
+## Dashboard previews
+
+### Executive Overview
+![Executive Overview](screenshots/01-executive-overview.png.png)
+
+### Membership Analysis
+![Membership Analysis](screenshots/02-membership-analysis.png.png)
+
+### Revenue & Collections
+![Revenue and Collections](screenshots/03-revenue-collections.png.png)
+
+### Attendance & Branches
+![Attendance and Branches](screenshots/04-attendance-branches.png.png)
+
+### Financial Controls
+![Financial Controls](screenshots/05-financial-controls.png.png)
+
+
