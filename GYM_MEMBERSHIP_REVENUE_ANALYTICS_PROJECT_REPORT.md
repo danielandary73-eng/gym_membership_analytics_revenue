@@ -473,7 +473,7 @@ Historical SQL acceptance records remain separate from later packaging changes. 
 | November 16, 2026 | Revised GitHub SQL package prepared with stage-specific structural grant validation and updated validation ordering; static package checks completed. |
 | November 20, 2026 | SQL package, Power BI report, operational ERD/model, and five dashboard screenshots uploaded to GitHub, as confirmed by the project owner. Main README formatting and dashboard previews updated. Report consolidation and final publication review in progress. |
 
-Public GitHub publication and a clean-environment reproduction check are not yet confirmed.
+The GitHub portfolio was published on November 23, 2026. Public access was checked without signing in, and the repository was pinned to Daniel Andari's GitHub profile. A clean-environment reproduction check remains pending.
 
 ## Project Resources
 
